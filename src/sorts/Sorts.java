@@ -57,7 +57,7 @@ public class Sorts {
         }
     }
 
-    //Merge Sort Begins
+    // Merge Sort Begins
     public static void MergeSort(int[] array) {
         if (array.length > 1) {
 
